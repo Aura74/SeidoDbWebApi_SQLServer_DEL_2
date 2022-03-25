@@ -16,13 +16,13 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="DbContextLib">
-      <HintPath>..\..\SeidoDbCRUDE_SQLServer\publish\DbContextLib.dll</HintPath>
+      <HintPath>E:\Publish\DbContextLib.dll</HintPath>
     </Reference>
     <Reference Include="DbCRUDReposLib">
-      <HintPath>..\..\SeidoDbCRUDE_SQLServer\publish\DbCRUDReposLib.dll</HintPath>
+      <HintPath>E:\Publish\DbCRUDReposLib.dll</HintPath>
     </Reference>
     <Reference Include="DbModelsLib">
-      <HintPath>..\..\SeidoDbCRUDE_SQLServer\publish\DbModelsLib.dll</HintPath>
+      <HintPath>E:\Publish\DbModelsLib.dll</HintPath>
     </Reference>
   </ItemGroup>
 
